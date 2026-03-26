@@ -155,7 +155,7 @@ exec(open("yolov8_studio_v9.py").read())
 ### Opción B — Clonar el repositorio
 
 ```bash
-git clone https://github.com/TU_USUARIO/yolov8-vision-studio.git
+git clone https://github.com/pipediaz1234/yolov8-vision-studio.git
 cd yolov8-vision-studio
 ```
 
