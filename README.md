@@ -281,8 +281,7 @@ yolov8-vision-studio/
       <a href="https://linkedin.com/in/https://www.linkedin.com/in/andres-felipe-diaz-campos-398245207/">
         <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
     
-      </a>
-    </td>
+  
   </tr>
 </table>
 
