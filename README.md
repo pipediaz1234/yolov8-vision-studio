@@ -208,15 +208,9 @@ names: ['gato', 'perro', 'persona']
 
 ---
 
-## 📸 Capturas de Pantalla
+## 📸 Capturas de Pantalla De la Modelo
 
-> **Instrucciones para agregar tus propias capturas:**
-> 1. Crea una carpeta `assets/` en la raíz del repositorio
-> 2. Guarda tus capturas con estos nombres exactos:
->    - `assets/demo_detection.png` — captura de detección con cámara
->    - `assets/demo_dashboard.png` — captura del panel de métricas
->    - `assets/demo_training.png` — captura de las curvas de entrenamiento
->    - `assets/demo_confusion.png` — captura de la matriz de confusión
+
 
 | Detección en tiempo real | Dashboard de métricas |
 |---|---|
