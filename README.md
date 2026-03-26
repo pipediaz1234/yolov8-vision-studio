@@ -208,7 +208,7 @@ names: ['gato', 'perro', 'persona']
 
 ---
 
-## 📸 Capturas de Pantalla De la Modelo
+## 📸 Capturas de Pantalla Del Modelo
 
 
 
